@@ -1,0 +1,1 @@
+This file is provided by Credolab to categorize the packages in Credolab application
